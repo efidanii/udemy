@@ -6,7 +6,7 @@ class EmployeesAddForm extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            name: '',
+            name: 'й',
             salary: ''
         }
     }
